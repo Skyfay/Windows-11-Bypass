@@ -3,7 +3,7 @@ Die neuen Windows 11 Richtlinien (TMP, Secureboot, CPU) umgehen bei einer neuins
 
 **Anleitung**
 1. Lade dir die .reg Datei herunter und kopiere diese auf einen USB-Stick ODER (Geeignet für VM's) lade dir die ISO-Datei herunter und mounte diese in das System.
-2. Boote normal von dem Windows-11 Stick, der CD etc.
+2. Boote normal von dem Windows-11 Stick, der Windows-11 CD, der Windows-11 ISO etc.
 3. Spiele das Windows Setup durch, bis an dem Punkt, wo Windows reklamiert dass es nicht unterstützt wird.
 
 ![image](https://user-images.githubusercontent.com/76796007/162907563-0b0d3554-bf48-41fc-853a-f8616fdd33a9.png)
