@@ -26,13 +26,13 @@ Nun bist du im Datei Explorer, klicke auf "Dieser PC" und du siehst dann als Lau
 7. Klicke nun das Laufwerk oder den USB-Stick mit einem doppel Klick an.
 
 8. Der USB-Stick oder die ISO ist nun leer. Klicke auf "Dateityp" und wähle "Alle Dateien" aus. <br />
-![image](https://user-images.githubusercontent.com/76796007/162909011-28084154-e8dc-483a-a1fd-47c65a0c14df.png)
+![image](https://user-images.githubusercontent.com/76796007/162909011-28084154-e8dc-483a-a1fd-47c65a0c14df.png) <br />
 Nun solltest du die bypass Datei sehen.
 
 9. Nun machst du einen Rechtsklick auf die Datei, und klickst auf "Zusammenführen".
 ![image](https://user-images.githubusercontent.com/76796007/162909320-6e9b7421-1fb2-49c9-a9b3-20a246a49520.png)
 
-10. Hier kommt eine Warnmeldung, klicke da auf "Ja".
+10. Hier kommt eine Warnmeldung, klicke da auf "Ja". <br />
 ![image](https://user-images.githubusercontent.com/76796007/162909447-9c337e5e-0dd0-4d77-9680-d0928dccc4e8.png)
 
 11. Sobald der Prozess abgeschlossen ist, siehst du folgendes Fenster. Nun kannst du alle Fenster wieder schliessen. <br />
