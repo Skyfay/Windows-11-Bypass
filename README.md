@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Blog_Post-Instruction_Guide_(English)-blue?link=https%3A%2F%2Fskyblog.one%2Fpost%2F2023%2F06%2Fhow-to-install-windows-11-if-its-not-official-supported%2F)
+![Static Badge](https://img.shields.io/badge/Blog_Post-Instruction_Guide_(German)-orange?link=https%3A%2F%2Fskyblog.one%2Fde%2Fpost%2F2023%2F06%2Fhow-to-install-windows-11-if-its-not-official-supported%2F)
+
 # Windows-11-Bypass
 Die neuen Windows 11 Richtlinien (TMP, Secureboot, CPU) umgehen bei einer neuinstallation.
 
